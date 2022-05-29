@@ -1,0 +1,6 @@
+print("hello world")
+print("\tMy name is tan.")
+print("I am form Khonkean.")
+print("I have you.", end= "")
+print("You have me too?.")
+print("Age\t16")
